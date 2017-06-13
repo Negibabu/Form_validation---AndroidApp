@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "26276827166",
+    "firebase_url": "https://form-6326a.firebaseio.com",
+    "project_id": "form-6326a",
+    "storage_bucket": "form-6326a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26276827166:android:228649fd2bb158cb",
+        "android_client_info": {
+          "package_name": "com.wordpress.sreeharilive.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26276827166-c9nrdj3pq8026fil1cq4btrrpk1ob6p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdtO7sL_NpxGDme5nq2iJW1qHvtj9S40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
